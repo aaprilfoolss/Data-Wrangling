@@ -1,4 +1,4 @@
-# Data-Wrangling
+# Data Wrangling with The Movies Database and Netflix Titles
 
 This is a final project submission for Udacity's 'Advanced Data Wrangling' course.
 
